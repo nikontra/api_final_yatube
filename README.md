@@ -71,3 +71,9 @@ python3 manage.py runserver
 
 при этом необходимо обязательно передать поле "text" 
 
+### Автор
+Третьяков Николай
+
+Контакты: 
+ - Email: nikontra@yandex.ru
+ - Git: https://github.co
