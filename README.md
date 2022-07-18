@@ -3,7 +3,9 @@
 
 ### Технологии:
 Python 3.7
+
 Django 2.2.16
+
 DjangoRestFramework 3.12.4
 
 ### Как запустить проект:
